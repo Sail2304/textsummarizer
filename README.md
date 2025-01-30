@@ -1,0 +1,2 @@
+# textsummarizer
+Text summarization app 
